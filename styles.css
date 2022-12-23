@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+.holder{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.el1{
+    background-color: black;
+    height: 100px;
+    width: 400px;
+}
+.el2{
+    background-color: rgb(117, 111, 111);
+    height: 100px;
+    width: 400px;
+}
+.el3{
+    background-color: rgb(56, 23, 146);
+    height: 100px;
+    width: 400px;
+}
+.el4{
+    background-color: rgb(18, 248, 87);
+    height: 100px;
+    width: 400px;
+}
+.el5{
+    background-color: rgb(163, 20, 20);
+    height: 100px;
+    width: 400px;
+}
